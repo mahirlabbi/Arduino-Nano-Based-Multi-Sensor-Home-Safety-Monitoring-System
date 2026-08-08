@@ -2,7 +2,7 @@ Arduino Nano-Based Multi-Sensor Home Safety Monitoring System
 
 Overview
 
-SafeNest is an Arduino Nano-based home safety monitoring system developed and tested using the Wokwi simulation environment. The system monitors gas, temperature, motion, and water-level conditions and provides visual and audible alerts based on predefined thresholds and conditions.
+Arduino Nano-Based Multi-Sensor Home Safety Monitoring System is an Arduino Nano-based home safety monitoring system developed and tested using the Wokwi simulation environment. The system monitors gas, temperature, motion, and water-level conditions and provides visual and audible alerts based on predefined thresholds and conditions.
 
 Components
 
